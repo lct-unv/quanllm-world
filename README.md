@@ -9,7 +9,7 @@ QuanLLM-World learns from executed Python mutations to predict test behavior and
 | Artifact | Location |
 | --- | --- |
 | Code | [Download the source archive](quanllm_world_code.zip) |
-| Data | [Download the research data archive](https://github.com/lct-unv/quanllm-world/releases/download/v0.1.0/quanllm_world_data.zip) |
+| Data | [Research data archive (Git LFS)](quanllm_world_data.zip) |
 | Model weights (Hugging Face) | **Coming soon** |
 
 ## Overview
